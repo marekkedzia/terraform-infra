@@ -1,0 +1,7 @@
+.idea
+keys.txt
+provider.tf
+state.tf
+.terraform
+*.lock.hcl
+.DS_Store
